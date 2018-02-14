@@ -9,13 +9,15 @@ Bootstrap, yang awalnya bernama blueprint merupakan framework yang dikembangkan 
 Foundation juga merupakan front end framework yang sifatnya open source yang dikembangkan oleh Zurb. Versi terkahir Framework ini adalah 6.4.3.
 
 ## Tailwind CSS
-Tailwind CSS merupakan framework CSS untuk membangun user interface. Tailwind tidak memiliki tema default, dan tidak mempunyai built-in komponen UI.
+Tailwind CSS merupakan framework CSS untuk membangun user interface. Tailwind tidak memiliki tema default, dan tidak mempunyai built-in komponen UI. Versi terakhir dari Framework ini adalah 0.4.1.
 
 ## Comparison
-| Perbandingan | Bootstrap   | Foundation   | Tailwind CSS |
+| Perbandingan | Bootstrap 4 | Foundation 6 | Tailwind CSS |
 | ----------- | ------------ | -------- | ---------|
 | Open source | Ya | Ya | Ya |
 | Sistem grid | 12 kolom | 12 kolom | 12 kolom |
-| Ppeprocessor CSS | Sass | Sass| Post CSS |
+| Prepocessor CSS| Sass | Sass| PostCSS |
+| Implementasi | HTML, CSS, dan JavaScript | HTML, CSS UI dan JavaScript | Javascript | 
 | Popularitas di Github | 115,193 bintang | 22,227 bintang | 3,890 bintang |
 | Ukuran File | 22.1kb | 16.7kb | 36.4kb |
+| Kustomisasi | Sudah siap pakai | Bisa dikustom | Bisa dikustom |
