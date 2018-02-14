@@ -11,13 +11,11 @@ Foundation juga merupakan front end framework yang sifatnya open source yang dik
 ## Tailwind CSS
 Tailwind CSS merupakan framework CSS untuk membangun user interface. Tailwind tidak memiliki tema default, dan tidak mempunyai built-in komponen UI.
 
-TEKNOLOGI, implementasi, cara membuat responsive, syntax, ukuran file, pengguna
-
 ## Comparison
 | Perbandingan | Bootstrap   | Foundation   | Tailwind CSS |
 | ----------- | ------------ | -------- | ---------|
 | Open source | Ya | Ya | Ya |
 | Sistem grid | 12 kolom | 12 kolom | 12 kolom |
-| Ppeprocessor CSS | Sass | Sass| |
-| Popularitas | |
+| Ppeprocessor CSS | Sass | Sass| Post CSS |
+| Popularitas di Github | 115,193 bintang | 22,227 bintang | 3,890 bintang |
 | Ukuran File | 22.1kb | 16.7kb | 36.4kb |
