@@ -18,7 +18,7 @@ Tailwind CSS merupakan framework CSS untuk membangun user interface. Tailwind ti
 | Sistem grid | 12 kolom | 12 kolom | 12 kolom |
 | Prepocessor CSS| Sass | Sass| PostCSS |
 | Implementasi | HTML, CSS, dan JavaScript | HTML, CSS UI dan JavaScript | Javascript | 
-| Popularitas di Github | 115,193 bintang | 22,227 bintang | 3,890 bintang |
+| Popularitas di Github per 2018 | 121.837 bintang | 26.977 bintang | 3.892 bintang |
 | Ukuran File | 22.1kb | 16.7kb | 36.4kb |
 | Kustomisasi | Sudah siap pakai | Bisa dikustom | Bisa dikustom |
 | Browser Support | Chrome, Firefox, Opera, Safari, Internet Explorer. Tidak support IE9, Opera Mini, UC Browser Mini, dan Amazon Silk | Chrome, Firefox, Opera, Safari, and Interner Explorer, dan support IE9+ | Chrome, Firefox, Safari. Tidak support Internet Explorer, Opera, Edge Browser |
